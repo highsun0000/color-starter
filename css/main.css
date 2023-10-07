@@ -103,7 +103,7 @@ footer {
 
   #column-3 {
     background-color: #b8860b;
-    width: 33.3%;
+    
   }
 
   footer {
@@ -112,6 +112,8 @@ footer {
 
   .cal-3 {
     width: 33.3%;
-  }
+  
    
+}
+
 }
